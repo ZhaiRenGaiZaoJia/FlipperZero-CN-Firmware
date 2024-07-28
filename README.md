@@ -12,7 +12,22 @@ Flipper Zero 中文固件说明：
 
 https://space.bilibili.com/404214439
 
-https://www.bilibili.com/video/BV1d1421X7uY
+Flipper Zero 中文固件发布：https://www.bilibili.com/video/BV1d1421X7uY
+
+Flipper Zero 是什么该怎么玩：https://www.bilibili.com/video/BV1mx4y1i7QH
+
+Flipper Zero 相关功能及操作说明：https://www.bilibili.com/video/BV1RD42137gm
+
+Flipper Zero 固件的选择、更新、避坑以及救砖：https://www.bilibili.com/video/BV1m6421Z747
+
+Flipper Zero 如何利用IC卡漏洞解卡：https://www.bilibili.com/video/BV1si421e7ra
+
+Flipper Zero 如何利用读卡器漏洞解卡：https://www.bilibili.com/video/BV1cz421z7WH
+
+Flipper Zero 如何复制门禁电梯等IC卡：https://www.bilibili.com/video/BV17S421R7RU
+
+Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/BV1tE421P7c5
+
 
 使用注意事项：
 -------------------------------------------------------------------------------------------
