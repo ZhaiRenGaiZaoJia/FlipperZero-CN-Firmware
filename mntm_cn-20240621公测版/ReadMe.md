@@ -12,14 +12,45 @@
 
 针对使用字典进行初步解卡得到的文件，添加了卡片类型提示及相关引导说明，方便用户判断接下来该做什么。
 
+<img src="screenshot/Screenshot-001.png">
+<img src="screenshot/Screenshot-002.png">
+<img src="screenshot/Screenshot-003.png">
+
+优化先前汉化的同时增加了漏洞解卡选项，提示用户接下来都有哪些可用的解卡方式
+
+<img src="screenshot/Screenshot-004.png">
+<img src="screenshot/Screenshot-005.png">
+
 NFC/Mifare Nested 嵌套认证攻击前置程序 1.6.5 (独立字库)
 
 该程序是Mifare Classic (M1\S50\SAK08)卡Nested漏洞攻击的前置程序，作用是获取和收集攻击所需的随机数，汉化的同时增加了收集状态的显示，便于判断攻击方式，各种相关提示也进行了引导性的说明，同时在程序的帮助选项里增加了详细的功能及使用说明。该程序可以看作漏洞解卡的前置程序。
 
+汉化的同时增加了收集状态的显示，便于判断攻击方式。
+
+<img src="screenshot/Screenshot-006.png">
+<img src="screenshot/Screenshot-007.png">
+
+各种相关提示也进行了引导性的说明。
+
+<img src="screenshot/Screenshot-008.png">
+<img src="screenshot/Screenshot-009.png">
+
+同时在程序的帮助选项里增加了详细的功能及使用说明。
+
+<img src="screenshot/Screenshot-010.png">
+<img src="screenshot/Screenshot-011.png">
+<img src="screenshot/Screenshot-012.png">
+<img src="screenshot/Screenshot-013.png">
 
 NFC/MFKey 嵌套认证攻击程序 2.2 (独立字库)
 
 该程序的作用是通过收集的随机数在本地模拟卡片然后遍历所有可能的密钥，该程序是利用卡漏洞在设备端解卡的核心程序程序，支持多种攻击方式的随机数破解。
+
+<img src="screenshot/Screenshot-014.png">
+<img src="screenshot/Screenshot-015.png">
+<img src="screenshot/Screenshot-016.png">
+<img src="screenshot/Screenshot-017.png">
+<img src="screenshot/Screenshot-018.png">
 
 
 也就是说小海豚除了字典和侦测，同样支持使用漏洞进行解卡，系统NFC程序搭配扩展程序中的Mifare Nested和MFKey程序，再配合电脑和手机，理论上至少可以解开市面上80%的IC卡(M1卡)。
@@ -34,3 +65,6 @@ NFC/MFKey 嵌套认证攻击程序 2.2 (独立字库)
 汉化Tools/RFID detector 读卡器类型检测 1.2 (独立字库)
 
 该程序用于检测读卡器(读头)类型，可以很好的判断读卡器使用的是IC卡还是ID卡，同时还可以检测ID卡的具体频率。
+
+<img src="screenshot/Screenshot-019.png">
+<img src="screenshot/Screenshot-020.png">
