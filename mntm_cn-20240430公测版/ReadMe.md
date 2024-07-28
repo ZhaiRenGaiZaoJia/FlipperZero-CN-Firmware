@@ -1,6 +1,6 @@
 20240430公测版更新日志：
 -------------------------------------------------------------------------------------------
-<a href="https://www.bilibili.com/video/BV1d1421X7uY" target="_blank"><img src="screenshot/Screenshot-001.png"></a>
+<a href="https://www.bilibili.com/video/BV1d1421X7uY" rel="noopener noreferrer"><img src="screenshot/Screenshot-001.png"></a>
 
 <h3><i>一个新旅程的开始，这一路上又会是怎样的风景呢？又会遇到什么样的事和什么样的人呢？</i></h3>
 
