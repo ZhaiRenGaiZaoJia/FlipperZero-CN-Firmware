@@ -7,10 +7,37 @@
 
 补全Mifare Nested中部分遗漏的字库。
 
+<img src="screenshot/Screenshot-001.png">
+
 调整HID iClass (PicoPass) 已保存数据中的卡片管理菜单，将模拟选项放置在了第一位，以便快速模拟。添加关于帮助，方便大家理解程序作用
+
+<img src="screenshot/Screenshot-002.png">
 
 汉化Mifare Fuzzer 漏洞检测 1.3 添加关于帮助，方便大家理解程序作用
 
+<img src="screenshot/Screenshot-003.png">
+<img src="screenshot/Screenshot-004.png">
+<img src="screenshot/Screenshot-005.png">
+
 汉化NFC Playlist 模拟列表 2.1 添加关于帮助，方便大家理解程序作用
 
+<img src="screenshot/Screenshot-006.png">
+<img src="screenshot/Screenshot-007.png">
+<img src="screenshot/Screenshot-008.png">
+
 完善integrity 相关说明及维权 增加特别鸣谢，逐一感谢将这一路上帮助过我的朋友们。
+
+<img src="screenshot/Screenshot-009.png">
+<img src="screenshot/Screenshot-010.png">
+<img src="screenshot/Screenshot-011.png">
+<img src="screenshot/Screenshot-012.png">
+<img src="screenshot/Screenshot-013.png">
+<img src="screenshot/Screenshot-014.png">
+<img src="screenshot/Screenshot-015.png">
+<img src="screenshot/Screenshot-016.png">
+<img src="screenshot/Screenshot-017.png">
+<img src="screenshot/Screenshot-018.png">
+<img src="screenshot/Screenshot-019.png">
+<img src="screenshot/Screenshot-020.png">
+<img src="screenshot/Screenshot-021.png">
+<img src="screenshot/Screenshot-022.png">
