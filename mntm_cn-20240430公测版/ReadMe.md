@@ -1,8 +1,9 @@
 20240430公测版更新日志：
 -------------------------------------------------------------------------------------------
-<a href="https://www.bilibili.com/video/BV1d1421X7uY" ><img src="screenshot/Screenshot-001.png"></a>
 
 <h3><i>一个新旅程的开始，这一路上又会是怎样的风景呢？又会遇到什么样的事和什么样的人呢？</i></h3>
+
+<a href="https://www.bilibili.com/video/BV1d1421X7uY" ><img src="screenshot/Screenshot-001.png"></a>
 
 <h2><b>汉化以描述功能作用为主，更多侧重于学习，目的是方便新人快速上手，同时统一功能间的逻辑关系，优化用户体验，使操作更符合直觉。</b></h2>
 
