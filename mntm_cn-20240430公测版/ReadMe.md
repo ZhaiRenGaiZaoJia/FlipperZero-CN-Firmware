@@ -33,7 +33,7 @@ U2F
 
 <h2><b>外部扩展APP：</b></h2>
 
-HID iClass
+HID iClass (PicoPass)
 
 <h2><b>游戏：</b></h2>
 
