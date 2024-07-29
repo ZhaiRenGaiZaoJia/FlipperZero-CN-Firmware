@@ -8,33 +8,33 @@
 
 目前固件以及教程正在有条不紊的制作，感兴趣的朋友可以去关注一下。
 
-我的B站主页：https://space.bilibili.com/404214439
+⭐️我的B站主页：https://space.bilibili.com/404214439
 
-Flipper Zero 中文固件发布：https://www.bilibili.com/video/BV1d1421X7uY
+▶️Flipper Zero 中文固件发布：https://www.bilibili.com/video/BV1d1421X7uY
 
-Flipper Zero 是什么该怎么玩：https://www.bilibili.com/video/BV1mx4y1i7QH
+▶️Flipper Zero 是什么该怎么玩：https://www.bilibili.com/video/BV1mx4y1i7QH
 
-Flipper Zero 相关功能及操作说明：https://www.bilibili.com/video/BV1RD42137gm
+▶️Flipper Zero 相关功能及操作说明：https://www.bilibili.com/video/BV1RD42137gm
 
-Flipper Zero 固件的选择、更新、避坑以及救砖：https://www.bilibili.com/video/BV1m6421Z747
+▶️Flipper Zero 固件的选择、更新、避坑以及救砖：https://www.bilibili.com/video/BV1m6421Z747
 
-Flipper Zero 如何利用IC卡漏洞解卡：https://www.bilibili.com/video/BV1si421e7ra
+▶️Flipper Zero 如何利用IC卡漏洞解卡：https://www.bilibili.com/video/BV1si421e7ra
 
-Flipper Zero 如何利用读卡器漏洞解卡：https://www.bilibili.com/video/BV1cz421z7WH
+▶️Flipper Zero 如何利用读卡器漏洞解卡：https://www.bilibili.com/video/BV1cz421z7WH
 
-Flipper Zero 如何复制门禁电梯等IC卡：https://www.bilibili.com/video/BV17S421R7RU
+▶️Flipper Zero 如何复制门禁电梯等IC卡：https://www.bilibili.com/video/BV17S421R7RU
 
-Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/BV1tE421P7c5
+▶️Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/BV1tE421P7c5
 
-## 固件视频介绍：
+## 👀 固件视频介绍：
 
 <a href="https://www.bilibili.com/video/BV1d1421X7uY" ><img src="mntm_cn-20240430公测版/screenshot/Screenshot-001.png"></a>
 
-## 固件刷新方法：
+## ✍️ 固件刷新方法：
 
 请参考[固件更新方法及问题2.0](Update_doc/ReadMe.md)
 
-## 使用注意事项：
+## 😰 使用注意事项：
 
 **0、更新中文固件时建议使用qFlipper->Advanced Controls->ERASE清理一下内部空间，这将极大改善刷新固件时可能发生的问题(该功能不会影响SD卡中的文件)。**
 
@@ -49,7 +49,7 @@ Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/B
 4、汉化必然导致更多系统资源被占用，可能会导致稳定性下降，希望大家能有正确认视。
 
 
-##  BUG提交：
+## 😵 BUG提交：
 
 汉化切入点以使用较频繁的功能界面为主，系统通知、报错等信息界面优先汉化了较常见的，部分不常用的功能和界面可能有所忽略
 
@@ -67,13 +67,13 @@ Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/B
 大家测试发现后尽量以截图形式发到群或直接在B站视频下留言或者私信。
 
 
-## 公测QQ群：
+## ⛺ 公测QQ群：
 
 公测QQ群: [530379583](https://qm.qq.com/q/1DlppfAT08)
 
 <img src="assets/qqgroup.png" Width="200px">
 
-## 版本更新及大事记：
+## 🎉 版本更新及大事记：
 
 最新版本说明请查看文档开头版本更新说明
 
@@ -102,7 +102,7 @@ Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/B
 2024-4-13 收到随缘的Flipper Zero
 
 
-## 感谢帮助过我的朋友们:
+## 👋 感谢帮助过我的朋友们:
 
 <b>[随缘]</b>
 接触小海豚源自他的善意。
@@ -133,7 +133,7 @@ Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/B
 在汉化和修改程序过程中提供了帮助，解决了很多实际问题，如版本号及筛选。
 
 
-## 特别感谢：
+## 👍 特别感谢：
 
 感谢随缘大哥的信任，上午刚认识，下午就寄来设备，借我学习研究！非常感谢！
 
