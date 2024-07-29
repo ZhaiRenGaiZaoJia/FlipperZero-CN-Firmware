@@ -8,34 +8,34 @@
 
 制作该程序的初衷是为了在汉化过程中随时查看系统信息，分析固件的优化情况。之前只在私下进行了分享，朋友觉得程序很方便，绑定快捷键以后可以随时查看系统信息。因此决定正式加入汉化固件之中，通过该程序可以随时了解运行内存，闪存以及TF卡的使用情况。因为是内部测试程序，姑且算是0.1版。
 
-汉化电池信息界面
+#### 汉化电池信息界面
 
 <img src="screenshot/Screenshot-002.png">
 <img src="screenshot/Screenshot-003.png">
 
-修改程序加载报错界面
+#### 修改程序加载报错界面
 
 <img src="screenshot/Screenshot-004.png">
 
-汉化插入存储卡提示界面
+#### 汉化插入存储卡提示界面
 
 <img src="screenshot/Screenshot-005.png">
 
-汉化Sub-Ghz存储卡报错界面
+#### 汉化Sub-Ghz存储卡报错界面
 
 <img src="screenshot/Screenshot-006.png">
 
-修改Sub-Ghz发送被阻止界面，优化解锁向导
+#### 修改Sub-Ghz发送被阻止界面，优化解锁向导
 
 <img src="screenshot/Screenshot-007.png">
 
-优化侦测后的解卡提示界面
+#### 优化侦测后的解卡提示界面
 
 <img src="screenshot/Screenshot-008.png">
 <img src="screenshot/Screenshot-009.png">
 <img src="screenshot/Screenshot-010.png">
 
-优化NFC->其他操作：
+#### 优化NFC->其他操作：
 
 读取 NTAG/Ultralight
 
@@ -57,15 +57,15 @@
 <img src="screenshot/Screenshot-013.png">
 <img src="screenshot/Screenshot-014.png">
 
-完善固件升级过程中的报错界面
+#### 完善固件升级过程中的报错界面
 
 <img src="screenshot/Screenshot-015.png">
 
-修改输入法确认按钮，由“保存”变更为“完成”
+#### 修改输入法确认按钮，由“保存”变更为“完成”
 
 <img src="screenshot/Screenshot-016.png">
 
-汉化 Enhanced Sub-Ghz Chat 增强Sub-Ghz聊天应用
+#### 汉化 Enhanced Sub-Ghz Chat 增强Sub-Ghz聊天应用
 
 <img src="screenshot/Screenshot-017.png">
 <img src="screenshot/Screenshot-018.png">
