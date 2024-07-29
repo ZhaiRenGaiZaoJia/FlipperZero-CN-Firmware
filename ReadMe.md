@@ -65,7 +65,7 @@ Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/B
 
 ## 公测QQ群：
 
-公测QQ群:[530379583](https://qm.qq.com/q/1DlppfAT08)
+公测QQ群: [530379583](https://qm.qq.com/q/1DlppfAT08)
 
 <img src="assets/qqgroup.png" Width="200px">
 
