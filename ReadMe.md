@@ -26,6 +26,10 @@ Flipper Zero 如何复制门禁电梯等IC卡：https://www.bilibili.com/video/B
 
 Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/BV1tE421P7c5
 
+## 固件视频介绍：
+
+<a href="https://www.bilibili.com/video/BV1d1421X7uY" ><img src="mntm_cn-20240430公测版/screenshot/Screenshot-001.png"></a>
+
 ## 固件刷新方法：
 
 请参考[固件更新方法及问题2.0](Update_doc/ReadMe.md)
