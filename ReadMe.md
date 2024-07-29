@@ -137,4 +137,9 @@ BUG提交：
 
 > **[支付宝](https://qr.alipay.com/a6x18955zxmede2gw5yac15)**: 资助金额不限(平台不收取手续费)
 
+
+<img src="assets/a6x18955zxmede2gw5yac15.png">
+
+
+
 **感谢你的资助**
