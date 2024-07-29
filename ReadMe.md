@@ -28,11 +28,13 @@ Flipper Zero 常见IC读卡器的漏洞检测：https://www.bilibili.com/video/B
 
 ## 固件刷新方法：
 
-[请参考固件更新方法及问题2.0](Update_doc/ReadMe.md)
+请参考[固件更新方法及问题2.0](Update_doc/ReadMe.md)
 
 ## 使用注意事项：
 
 **0、更新中文固件时建议使用qFlipper->Advanced Controls->ERASE清理一下内部空间，这将极大改善刷新固件时可能发生的问题(该功能不会影响SD卡中的文件)。**
+
+<img src="Update_doc/assets/pic08.png">
 
 1、第一次安装中文固件前建议格式化SD存储卡
 
