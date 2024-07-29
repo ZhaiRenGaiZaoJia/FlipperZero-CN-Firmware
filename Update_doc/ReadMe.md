@@ -112,7 +112,7 @@ TF卡官方建议使用SanDisk、金士顿、三星，固件升级失败大多�
 
 请先尝试在qFlipper中“Erase擦除设备内部存储”或者“恢复出厂设置”后再安装第三方固件，问题都能得到很好的解决。
 
-<img src="assets/pic09.png">
+<img src="assets/pic08.png">
 
 在擦除和恢复为官方固件之前，建议先备份好TF内的数据。
 
