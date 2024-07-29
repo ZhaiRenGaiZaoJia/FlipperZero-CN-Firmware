@@ -1,35 +1,35 @@
 # FlipperZero固件更新说明2.0：
 
-![alt text](pic01.png)
+<img src="assets/pic01.png">
 
 01、点击Install from file 选择更新第三方固件
 
-![alt text](pic02.png)
+<img src="assets/pic02.png">
 
 02、先择下载好的固件，固件格式为.tgz
 
-![alt text](pic03.png)
+<img src="assets/pic03.png">
 
 03、点击Install 确认开始更新固件
 
-![alt text](pic04.png)
+<img src="assets/pic04.png">
 
 04、等待将固件上传到设备的TF存储卡中
 （更新固件时FlipperZero内必须要要TF卡）
 TF卡官方建议使用SanDisk、金士顿、三星，固件升级失败大多跟TF卡有关
 
-![alt text](pic05.png)
+<img src="assets/pic05.png">
 
 05、等待将上传到TF卡中的固件部署到设备Flash和TF中的各目录，
 （此时其实可以断开USB数据线和关闭qFlipper。下面的升级均由设备自身完成）
 
 
-![alt text](pic06.png)
+<img src="assets/pic06.png">
 
 
 06、如果没有断开数据线，出现该界面即说明升级完毕，点击Continue完成。
 
-![alt text](pic07.png)
+<img src="assets/pic07.png">
 
 
 07、升级完成后，左侧Firmware会显示新的版本号。
@@ -39,12 +39,12 @@ TF卡官方建议使用SanDisk、金士顿、三星，固件升级失败大多�
 
 # 更新失败的处理方法：
 
-![alt text](pic08.png)
+<img src="assets/pic08.png">
 
 01、点击Erase擦除设备内部存储（Flash）
 降低Flash空间占用，可以改善固件部署时可能发生的错误。
 
-![alt text](pic09.png)
+<img src="assets/pic09.png">
 
 02、点击Update更新为官方固件后再刷新第三方固件
 刷入官方固件目的也是为了降低Flash空间占用，改善固件部署时可能发生的错误。
@@ -71,36 +71,36 @@ TF卡官方建议使用SanDisk、金士顿、三星，固件升级失败大多�
 固件更新最容易出现问题的步骤就是将固件上传进小海豚的过程中（比如说固件更新时，所有卡%进度条都是这个原因导致的）。
 因此我们介绍一下如何手动将固件上传到TF，然后在小海豚的文件管理器中手动更新。
 
-![alt text](pic10.png)
+<img src="assets/pic10.png">
 
 01、将tgz固件用解压软件打开（图中使用的是winrar），将其中的固件目录上传到小海豚TF卡的update目录中，可以使用qFlipper上传，也可以使用TF读卡器直接拷贝。
 
-![alt text](pic11.png)
+<img src="assets/pic11.png">
 
 02、使用是小海豚进行接下来的操作，数据线可断开，也可以不断开，随意。
 （上图之所以还是qFlipper的界面是为了截图方便，实际操作无需连接qFlipper）
 
 在待机界面点击下键打开文件管理器
 
-![alt text](pic12.png)
+<img src="assets/pic12.png">
 
 
 03、找到update目录，点击中键（确认键）进入。
 
 
-![alt text](pic13.png)
+<img src="assets/pic13.png">
 
 
 04、找到刚刚上传的固件目录，点击中键（确认键）进入。
 
 
-![alt text](pic14.png)
+<img src="assets/pic14.png">
 
 
 05、找到update.fuf文件，点击中键（确认键）打开。
 
 
-![alt text](pic15.png)
+<img src="assets/pic15.png">
 
 
 
