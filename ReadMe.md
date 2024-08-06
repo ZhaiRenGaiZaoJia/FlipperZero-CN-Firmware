@@ -129,7 +129,7 @@
 <b>[[老葉](https://github.com/oldip)]</b>
 对小海豚的方方面面都很了解，在各种功能上均提供了帮助，尤其是近场通信。
 
-<b>[MikozZZ]</b>
+<b>[[MikozZZ](https://www.github.com/mikosecsos)]</b>
 在汉化和修改程序过程中提供了帮助，解决了很多实际问题，如版本号及筛选。
 
 
